@@ -9,6 +9,10 @@ For a working example, you can review the sample Scene, "CameraControlExample.sc
 
 ![Image of CameraControlExampleScene](https://github.com/Akerdogmus/MultiCameraController/blob/main/Images/CameraControllerExampleScene.PNG)
 
+## Installation
+For installation this package to your Unity project:
+#### Window -> Package Manager -> Add Package from disk -> Choose package.json file. 
+
 ### Changelog
 
 See the [CHANGELOG](CHANGELOG.md) file for Changelogs.
