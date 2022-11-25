@@ -13,9 +13,9 @@ For a working example, you can review the sample Scene, "CameraControlExample.sc
 For installation this package to your Unity project:
 #### Window -> Package Manager -> Add Package from disk -> Choose package.json file. 
 
-### Changelog
+## Changelog
 
 See the [CHANGELOG](CHANGELOG.md) file for Changelogs.
-### License
+## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (Apache-2.0 Licence).
