@@ -9,12 +9,9 @@ For a working example, you can review the sample Scene, "CameraControlExample.sc
 
 ![Image of CameraControlExampleScene](https://github.com/Akerdogmus/MultiCameraController/blob/main/Images/CameraControllerExampleScene.PNG)
 
-Changelog:
-----------
-Update v1.0 - 25.11.22
-------------------------
-- First Commit
+### Changelog
 
+See the [CHANGELOG](CHANGELOG.md) file for Changelogs.
 ### License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (Apache-2.0 Licence).

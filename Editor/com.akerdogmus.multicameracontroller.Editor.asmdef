@@ -1,0 +1,16 @@
+{
+    "name": "com.akerdogmus.multicameracontroller.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac8d6f1914154c741a03c2808f697be5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
