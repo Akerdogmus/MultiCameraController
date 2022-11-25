@@ -1,0 +1,15 @@
+{
+  "name": "com.akerdogmus.multicameracontroller",
+  "version": "1.0.0",
+  "displayName": "Mutli Camera Controller",
+  "description": "Bu tool, ortamdaki kameralara geçişlerin\n\nChange Camera\n\nbutonu ile yapılabilmesini sağlar.",
+  "unity": "2020.2",
+  "unityRelease": "0b9",
+  "keywords": [
+    "camera controller"
+  ],
+  "author": {
+    "name": "Alim Kerem Erdogmus",
+    "email": "akerdogmus.dev@gmail.com"
+  }
+}
