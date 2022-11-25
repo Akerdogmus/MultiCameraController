@@ -2,7 +2,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/akerdogmus/MultiCameraController/badge)](https://www.codefactor.io/repository/github/akerdogmus/MultiCameraController)
 
-![current_version](https://img.shields.io/github/v/release/Akerdogmus/MultiCameraController?color=green) ![last_commit](https://img.shields.io/github/last-commit/Akerdogmus/MultiCameraController?color=green) ![repo_size](https://img.shields.io/github/repo-size/Akerdogmus/MultiCameraController) ![Apache-2.0 License](https://img.shields.io/github/license/Akerdogmus/MultiCameraController?color=blue) ![lang](https://img.shields.io/github/languages/top/Akerdogmus/MultiCameraController)
+![current_version](https://img.shields.io/github/v/release/Akerdogmus/MultiCameraController?color=green) ![last_commit](https://img.shields.io/github/last-commit/Akerdogmus/MultiCameraController?color=green) ![repo_size](https://img.shields.io/github/repo-size/Akerdogmus/MultiCameraController) ![lang](https://img.shields.io/github/languages/top/Akerdogmus/MultiCameraController)
 
 This multi-camera controller package offers the controller GameObject with a "Change Camera" button that you can switch between when you add cameras in its environment.
 For a working example, you can review the sample Scene, "CameraControlExample.scene".
